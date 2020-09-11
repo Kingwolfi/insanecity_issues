@@ -36,4 +36,4 @@ Falls es weiterhilft bitte Screenshot anfügen :)
 1920x1080
 
 **Sonstiges**
-Falls du noch was zu sagen hast
+Falls du noch was zu sagen hast :)
