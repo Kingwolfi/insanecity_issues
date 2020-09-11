@@ -23,6 +23,12 @@ Schritte:
 **Erwartetes Verhalten**
 Was erwartest du wie es normal laufen sollte
 
+**Erwartetes Verhalten**
+Was erwartest du wie es normal laufen sollte
+
+**Möglichkeit das Problem zu lösen**
+Wenn du einen Weg kennst das Problem temporär zu lösen bis es gefixed wurde bitte hier hin schreiben
+
 **Screenshots**
 Falls es weiterhilft bitte Screenshot anfügen :)
 
